@@ -30,6 +30,13 @@ For computing the relative pose error, we provide a script ''evaluate_rpe.py''. 
 - [source](https://cvg.cit.tum.de/data)
 
 ### Results
+
+Evaluation by:
+
+```
+python evaluate_ate.py  Examples/MH01/mav0/state_groundtruth_estimate0/data.csv  f_f_dataset-MH01_rgb.txt --plot plots.png
+
+```
 <p align="center">
 <img src="https://github.com/dssdanial/Vinum_ORB_SLAM3/assets/32397445/7b77c68d-5aea-46b9-937b-f7e7f5abd9ca" width=400 height=300>
 </p>
