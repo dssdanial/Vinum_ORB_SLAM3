@@ -79,11 +79,12 @@ positional arguments:
 ```
 python generate_pointcloud.py Examples/rgbd_dataset_freiburg1_desk/rgb/1305031452.791720.png Examples/rgbd_dataset_freiburg1_desk/depth/1305031454.072690.png output.ply
 ```
-<img src="https://github.com/dssdanial/Vinum_ORB_SLAM3/assets/32397445/d51a6332-0b0d-482c-b8bb-c86621dd9a53" width=400 height=400>
 
+<p align="center">
 
+<img src="https://github.com/dssdanial/Vinum_ORB_SLAM3/assets/32397445/cd9389dd-7e8b-46bf-9612-c828b15f94cd" width=500 height=300>
 
-
+</p>
 
 
 
